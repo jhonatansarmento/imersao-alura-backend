@@ -1,1 +1,7 @@
 AIzaSyAhUXS0wlombzSq7cqYcIfDPY0fWEBhPMM
+
+senha mongo:
+jhonatansarmento
+JySldqFRKDvBBghM
+
+mongodb+srv://jhonatansarmento:JySldqFRKDvBBghM@cluster0.obzrp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
